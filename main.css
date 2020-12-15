@@ -1,8 +1,20 @@
-#paraColor2{
-    color: slateblue;
+#paraColor3 {
+    font-size: .8em;
+    font-weight: 900;
+    text-shadow: 1px 2px 1px cadetblue;
+    color: rgb(255, 147, 5);
+}
+#paraColor2 {
+    font-size: .8em;
+    font-weight: 500;
+    text-shadow: 2px 2px 2px darkblue;
+    color: rgb(241, 13, 13);
 }
 
 #paraColor1 {
+    font-size: .8em;
+    font-weight: 500;
+    text-shadow: 1px 2px 1px rgb(5, 105, 5);
     color: rgb(79, 248, 0);
 }
 
